@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Hello world!
 
-You can use the [editor on GitHub](https://github.com/kth-ii1300-projektgrupp-26/kth-ii1300-projektgrupp-26.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Vi är en grupp på tre studenter som heter Hannes, Youssef och Ismail. Vi går alla programmet [TIDAB (Högskoleingenjörsutbildning i datateknik)](https://www.kth.se/social/program/tidab/) på KTH och har fått i uppgift att bygga och programmera en LEGO-robot ([LEGO Mindstorms EV3](https://en.wikipedia.org/wiki/Lego_Mindstorms_EV3)) som ska kunna leverera post.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+För att programmera roboten använder vi programmeringsspråket C och operativsystemet [ev3dev](https://www.ev3dev.org/).
 
-### Markdown
+Vi är nu inne på den andra veckan och ska utforska hur sensorerna kan användas på roboten för att den ska kunna hitta rätt. Tanken är att roboten ska hitta den vart den närmaste väggen ligger och sedan åka längs väggen fram till målet.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![EV3 Ultrasonic Sensor](/assets/ultrasonic.jpg)
 
-```markdown
-Syntax highlighted code block
+*EV3 Ultrasonic Sensor, lego.com*
 
-# Header 1
-## Header 2
-### Header 3
+Den första veckan byggde vi ihop roboten och skapade en enkel prototyp i C. Programmet åker framåt, åker bakåt och snurrar runt.
 
-- Bulleted
-- List
+<iframe src="https://streamable.com/e/cjrtjx?autoplay=1&nocontrols=1" width="560" height="315" frameborder="0" allowfullscreen allow="autoplay" style="padding-bottom: 20px"></iframe>
 
-1. Numbered
-2. List
+*Prototyp från vecka 1*
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kth-ii1300-projektgrupp-26/kth-ii1300-projektgrupp-26.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<sub>2021-09-22</sub>
