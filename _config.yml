@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: "Projektuppgift: LEGO-robot"
-tagline: "Webbsida för projektgrupp 26"
+author: "Projektgrupp 26"
+
+social-network-links:
+  email: "hmann@kth.se, ismmoh@kth.se, moukhtar@kth.se"
