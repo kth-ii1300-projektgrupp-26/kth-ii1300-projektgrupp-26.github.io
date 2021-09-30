@@ -16,6 +16,8 @@ Vid varje steg har vi olika filer och flera funktioner, som till exempel "move_a
 
 *Aktivitet på GitHub under arbetspasset 28 september*
 
+/*video på hur roboten hittar och undviker väggen?*/
+
 <sub>2021-09-30 09:15</sub>
 
 ## Sensorer på LEGO Mindstorms EV3
@@ -55,8 +57,3 @@ Vi byggde ihop roboten och skapade en enkel prototyp i C. Programmet åker fram�
 *Prototyp från vecka 1*
 
 <sub>2021-09-22 14:30</sub>
-
-
-Vecka 2:
-Vi programerade några funktioner som skulle tillåta oss att utnjtja både ultra-sonic sensorn och Gyro sensorn i olika sätt.
-/*video på hur roboten hittar och undviker väggen?*/
