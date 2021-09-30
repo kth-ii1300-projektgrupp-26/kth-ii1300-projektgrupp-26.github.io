@@ -45,7 +45,9 @@ Vi är nu inne på den andra veckan och ska utforska hur sensorerna kan använda
 
 *EV3 Ultrasonic Sensor, lego.com*
 
-Den första veckan byggde vi ihop roboten och skapade en enkel prototyp i C. Programmet åker framåt, åker bakåt och snurrar runt.
+Vecka 1:
+
+Vi byggde ihop roboten och skapade en enkel prototyp i C. Programmet åker framåt, åker bakåt och snurrar runt.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/cjrtjx?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 <div style="padding-bottom: 20px"></div>
@@ -53,3 +55,8 @@ Den första veckan byggde vi ihop roboten och skapade en enkel prototyp i C. Pro
 *Prototyp från vecka 1*
 
 <sub>2021-09-22 14:30</sub>
+
+
+Vecka 2:
+Vi programerade några funktioner som skulle tillåta oss att utnjtja både ultra-sonic sensorn och Gyro sensorn i olika sätt.
+/*video på hur roboten hittar och undviker väggen?*/
